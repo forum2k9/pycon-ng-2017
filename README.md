@@ -19,7 +19,11 @@ https://github.com/forum2k9/pycon-ng-2017/tree/master/data
 ## Requirements
 ~ Anaconda Python 3 <br />
 ~ Folium <br />
-~ GeoPy
+~ GeoPy <br />
+~ PyProj <br />
+~ PyShp <br />
+~ Pandas
+* All can be installed using "pip install ..."
 
 ## Related Links
 a) Python from Space: Analyzing Open Satellite Imagery Using the Python Ecosystem
