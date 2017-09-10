@@ -12,3 +12,11 @@ Today, there are more native libraries that offer GIS and Remote Sensing operati
 ~ Geospatial Webservices <br />
 ~ Spatial Databases <br />
 ~ Remote Sensing and Image Processing
+
+## Requirements
+~ Anaconda Python 3 <br />
+~ Folium <br />
+~ GeoPy
+
+## Data
+https://github.com/forum2k9/pycon-ng-2017/tree/master/data
