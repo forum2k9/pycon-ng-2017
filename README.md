@@ -13,10 +13,20 @@ Today, there are more native libraries that offer GIS and Remote Sensing operati
 ~ Spatial Databases <br />
 ~ Remote Sensing and Image Processing
 
+## Data
+https://github.com/forum2k9/pycon-ng-2017/tree/master/data
+
 ## Requirements
 ~ Anaconda Python 3 <br />
 ~ Folium <br />
 ~ GeoPy
 
-## Data
-https://github.com/forum2k9/pycon-ng-2017/tree/master/data
+## Related Links
+a) Python from Space: Analyzing Open Satellite Imagery Using the Python Ecosystem
+https://github.com/kscottz/PythonFromSpace
+
+b) Geospatial analysis with Python
+https://github.com/geoinquietosvlc/2015.es.pycon
+
+c) Using Python to Analyze Spatial Data
+https://github.com/dersteppenwolf/pycon
