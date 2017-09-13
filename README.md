@@ -57,3 +57,10 @@ https://www.machinalis.com/blog/python-for-geospatial-data-processing/
 
 k) Calculate NDVI
 https://www.planet.com/docs/guides/quickstart-ndvi/
+
+l) The Use of Python in GIS
+https://www.gislounge.com/use-python-gis/
+
+## Author
+Umar Yusuf
+www.UmarYusuf.com
