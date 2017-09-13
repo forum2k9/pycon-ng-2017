@@ -62,5 +62,4 @@ l) The Use of Python in GIS
 https://www.gislounge.com/use-python-gis/
 
 ## Author
-Umar Yusuf
 www.UmarYusuf.com
