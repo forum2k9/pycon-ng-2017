@@ -34,3 +34,26 @@ https://github.com/geoinquietosvlc/2015.es.pycon
 
 c) Using Python to Analyze Spatial Data
 https://github.com/dersteppenwolf/pycon
+
+d) Creating map visualizations with open data and Folium
+https://www.youtube.com/watch?v=PInO2Cluu2E or https://pycon.sg/schedule/presentation/100/
+
+e) PyShp: https://github.com/GeospatialPython/pyshp
+
+f) Libraries for a modern geospatial workflow
+https://gist.github.com/jacquestardie/0d1c0cb413b3b9b06edf
+
+g) "Analyzing Satellite Images With Python Scientific Stack" by Milos Miljkovic
+https://github.com/HyperionAnalytics/PyDataNYC2014
+
+h) Calculate NDVI in Python
+http://neondataskills.org/HDF5/calc-ndvi-python/
+
+i) Open Source Geoprocessing Tutorial
+https://github.com/ceholden/open-geo-tutorial/blob/master/README.md
+
+j) Python for geospatial data processing
+https://www.machinalis.com/blog/python-for-geospatial-data-processing/
+
+k) Calculate NDVI
+https://www.planet.com/docs/guides/quickstart-ndvi/
